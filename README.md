@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 
 -->
 [![Samiksha's github stats](https://github-readme-stats.vercel.app/api?username=Samiksha0321)](https://github.com/Samiksha0321/github-readme-stats)
+
+
+[![Samiksha's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@a6ae62fc-e4a8-498f-807c-4b9b78f649d7)](https://github.com/Samiksha0321/github-readme-stats)

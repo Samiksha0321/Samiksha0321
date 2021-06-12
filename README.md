@@ -1,6 +1,4 @@
 ### Hi there 👋
-- 🌱 I’m currently learning ... how to collaborate with other repos
-
 <!--
 **Samiksha0321/Samiksha0321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
